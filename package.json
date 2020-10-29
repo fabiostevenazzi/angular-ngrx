@@ -18,8 +18,11 @@
     "@ngrx/entity": "10.0.1",
     "@ngrx/router-store": "10.0.1",
     "@ngrx/store": "10.0.1",
+    "@ngrx/store-devtools": "^10.0.1",
     "angular-cli": "^1.0.0-beta.28.3",
     "jasmine-core": "~3.5.0",
+    "primeicons": "^4.0.0",
+    "primeng": "^10.0.3",
     "rxjs": "6.5.5",
     "tslib": "^2.0.0",
     "zone.js": "0.10.3"
